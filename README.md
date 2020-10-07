@@ -4,8 +4,7 @@ Great for Installing older versions of SQL Server on Windows 10
 
 This is an automated method of fixing Code Access Security problem
 
-
-#Usage
+USAGE
 Run this on command prompt (administrator mode)
 cscript [path]\caspol-fix.vbs
 
