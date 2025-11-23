@@ -10,4 +10,4 @@ Run this on command prompt (administrator mode)
 
 `powershell -NoProfile -ExecutionPolicy Bypass -File "[path]\caspol-fix.ps1"``
 
-Reference: https://www.markbrilman.nl/2016/02/error-when-installing-sql-management-studio/
+Reference: [https://www.markbrilman.nl/2016/02/error-when-installing-sql-management-studio/](https://web.archive.org/web/20210625064956/https://www.markbrilman.nl/2016/02/error-when-installing-sql-management-studio/)
